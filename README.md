@@ -1,8 +1,6 @@
 # UnBalatro
 
-**Unbalanced Balatro**: 15 custom Jokers and 10 custom Decks for the [Balatro3DS](https://github.com/idkhan/Balatro3DS) fan port.
-
-Some of them are fair. Some are not. That's the point.
+**Unbalanced Balatro**: 15 custom Jokers and 10 custom Decks for the [Balatro3DS](https://github.com/idkhan/Balatro3DS) fan port. 
 
 ## Install
 
@@ -42,7 +40,7 @@ If something doesn't load, look at `mods/mods_log.txt` on the SD card.
 - **Perkeo Jr.** works like The Fool: it does nothing until you have used a Tarot or Planet card.
 - **Wizard Joker** counts every Tarot used this run, including ones used before you bought it.
 - **Mario and Luigi** each take a slot themselves, so the net gain is +2 and +3.
-- **Blueprint and Brainstorm** can copy exactly four UnBalatro Jokers: Wizard, Freedom, Samus Aran and Perkeo Jr. The rest are left out on purpose to avoid runaway scaling (a copied Link would be X15 on top of X15).
+- **Blueprint and Brainstorm** can copy exactly four UnBalatro Jokers: Wizard, Freedom, Samus Aran and Perkeo Jr. The rest are left out on purpose to avoid runaway scaling.
 
 ## Decks
 

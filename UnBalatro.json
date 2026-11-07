@@ -1,0 +1,9 @@
+{
+    "id": "UnBalatro",
+    "name": "UnBalatro",
+    "author": ["amateur-logic"],
+    "description": "Unbalanced Balatro: custom jokers and decks.",
+    "prefix": "unb",
+    "main_file": "UnBalatro.lua",
+    "version": "2.0.0"
+}
